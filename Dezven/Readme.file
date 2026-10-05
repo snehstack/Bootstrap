@@ -1,0 +1,191 @@
+Dezven Portfolio Website
+
+A responsive personal portfolio website built using HTML, CSS, and Bootstrap 5.
+
+The website includes a modern portfolio layout with sections for the hero area, about, skills, services, experience, portfolio projects, testimonials, and contact information.
+
+🚀 Features
+
+Responsive design for desktop, tablet, and mobile
+
+Bootstrap 5 grid system
+
+Custom CSS styling
+
+Smooth scrolling
+
+CSS hover effects and transitions
+
+Animated buttons and cards
+
+Responsive navigation menu using CSS
+
+Hero section with profile image
+
+About Me section
+
+Skills and progress bars
+
+Services section
+
+Experience section
+
+Portfolio/project cards
+
+Testimonials section
+
+Contact section
+
+Footer section
+
+No JavaScript required
+
+🛠️ Technologies Used
+
+HTML5
+
+CSS3
+
+Bootstrap 5
+
+📸 Screenshot
+
+
+
+project-folder/
+├── index.html
+├── style.css
+├── assets/
+│   ├── screenshot.png
+│   └── demo.mp4
+└── README.md
+
+Then the screenshot will appear here:
+
+
+
+🎥 Video Demo
+
+Website Preview
+
+
+
+If GitHub does not display the MP4 directly in your README, upload the video to your repository and use the file link, or add a GIF preview.
+
+📂 Project Structure
+
+Dezven-Portfolio/
+│
+├── index.html
+├── style.css
+│
+├── assets/
+│   ├── images/
+│   ├── screenshot.png
+│   └── demo.mp4
+│
+└── README.md
+
+💻 How to Run
+
+Download or clone this repository.
+
+Open the project folder.
+
+Open index.html in your browser.
+
+No installation or build process is required.
+
+📱 Responsive Design
+
+The website is designed to work across:
+
+Desktop
+
+Laptop
+
+Tablet
+
+Mobile
+
+CSS media queries are used to adjust the layout, typography, images, navigation, cards, and spacing for different screen sizes.
+
+🎨 Design
+
+The website uses:
+
+Clean white background
+
+Red accent color
+
+Modern typography
+
+Rounded cards
+
+Smooth hover transitions
+
+Responsive Bootstrap layout
+
+✨ Animations & Transitions
+
+The website includes CSS-only effects such as:
+
+Button hover animations
+
+Card lift effects
+
+Image zoom effects
+
+Portfolio image overlays
+
+Service icon rotation
+
+Social icon rotation
+
+Form focus effects
+
+Navigation underline animation
+
+Smooth scrolling
+
+📌 Sections
+
+Home
+
+Introduction and hero section with a call-to-action button.
+
+About
+
+Personal introduction, skills, and working process.
+
+Services
+
+Services including design, development, responsiveness, testing, and database-related work.
+
+Experience
+
+Professional experience displayed using responsive cards.
+
+Portfolio
+
+Project showcase with images, descriptions, and categories.
+
+Testimonials
+
+Client/testimonial cards.
+
+Contact
+
+Contact information and contact form.
+
+📄 License
+
+This project is licensed under the MIT License.
+
+See the LICENSE file for more information.
+
+👨‍💻 Author
+
+Your Name
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
